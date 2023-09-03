@@ -19,3 +19,4 @@ I learned the following things in this project
 8. Stakeholder Feedback Implementation
 9. Sales, Marketing, Finance & Supply Chain metrics
 
+![Main page ](https://github.com/spriyankagirish/businessinsight360/assets/138349558/2bc96c02-9608-4ad6-96fa-aee538fd66b8)

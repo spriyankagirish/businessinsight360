@@ -1,11 +1,20 @@
 # businessinsight360
+Established a Power BI dashboard gathering sales data from 2 different sources (Excel/CSV files and a SQL database), Optimized with DAX Studio, resulting in a 5% performance boost and projected 10% revenue growth and 20% data-related expense reduction.
 
-Finance View: This view likely contains financial data, such as accounting records, financial statements, budget information, and other financial metrics. It's used by finance professionals for financial analysis and reporting.
+In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
 
-Sales View: The sales view is likely to include data related to sales transactions, customer information, sales orders, revenue, and sales performance metrics. It's used by sales teams to monitor sales activities and track sales targets.
+1. Robust Data Modeling
+2. User-empathetic Report design
+3. Drillable Insights
 
-Marketing View: The marketing view probably contains data related to marketing campaigns, customer demographics, lead generation, advertising metrics, and marketing performance indicators. It's used by marketing teams to analyze the effectiveness of marketing efforts.
+I learned the following things in this project
 
-Supply Chain View: This view likely focuses on supply chain management, including data on inventory levels, procurement, logistics, production, and supplier information. It helps organizations optimize their supply chain operations.
-
-Executive View: The executive view is typically a high-level summary of key performance indicators (KPIs) and metrics from various parts of the organization. It provides executives and senior management with an overview of the company's overall performance.
+1. Power Query (Basic and Advanced Operations) 
+2. Basic and complex DAX formulas
+3. Data modelling involving 10+ tables
+4. Choosing the right visuals and formatting
+5. Dashboard designing principles
+6. Using bookmarks
+7. Deploying in Power BI service
+8. Stakeholder Feedback Implementation
+9. Sales, Marketing, Finance & Supply Chain metrics

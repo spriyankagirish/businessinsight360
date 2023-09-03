@@ -1,23 +1,6 @@
 # business insight 360
-Established a Power BI dashboard gathering sales data from 2 different sources (Excel/CSV files and a SQL database), Optimized with DAX Studio, resulting in a 5% performance boost and projected 10% revenue growth and 20% data-related expense reduction.
-
-In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
-
-1. Robust Data Modeling
-2. User-empathetic Report design
-3. Drillable Insights
-
-I learned the following things in this project
-
-1. Power Query (Basic and Advanced Operations) 
-2. Basic and complex DAX formulas
-3. Data modelling involving 10+ tables
-4. Choosing the right visuals and formatting
-5. Dashboard designing principles
-6. Using bookmarks
-7. Deploying in Power BI service
-8. Stakeholder Feedback Implementation
-9. Sales, Marketing, Finance & Supply Chain metrics
+ # Project Overview
+AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 ![Main page ](https://github.com/spriyankagirish/businessinsight360/assets/138349558/2bc96c02-9608-4ad6-96fa-aee538fd66b8)
 ![Finance View](https://github.com/spriyankagirish/businessinsight360/assets/138349558/fed673ec-5978-4882-8750-5fa57f94a877)
